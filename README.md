@@ -59,12 +59,3 @@ python app.py -c 1 -b
 ## Future Enhancements
 - Add support for batch processing multiple PDFs.
 - Provide a graphical user interface for compression options.
-
-## License
-This project is open-source and available under the MIT License.
-
-## Contributors
-- [Your Name]
-
-## Contribute
-Feel free to fork this repository, submit issues, or create pull requests to improve the project!
